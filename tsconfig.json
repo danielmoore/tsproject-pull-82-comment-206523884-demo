@@ -3,10 +3,10 @@
     "target": "ES5",
     "module": "commonjs",
     "moduleResolution": "node",
-    "pretty": true,
-    "noEmit": true
+    "pretty": true
   },
   "files": [
-    "test.ts"
+    "test1.ts",
+    "test2.ts"
   ]
 }
